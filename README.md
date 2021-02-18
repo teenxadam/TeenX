@@ -29,9 +29,15 @@ ATLA$
         <li>sweater</li>
         <li>robe</li>
         <li>mug</li>
-        <li></li>
+        <li>hat</li>
+        <li>Gold Chain</li>
+        <li>Calander</li>
+        <li>Book</li>
+
       </ul>
       <p>Donate Btc!</p>
+      <p>17g4Muck7xboYHV3VN4RkjeGPfxDyryvpo</p>
+
 
       <h1>”The Articles”</h1>
       <h2>What does it mean to be a BlaccMan in love?</h2>
