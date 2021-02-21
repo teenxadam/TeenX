@@ -13,31 +13,45 @@ ATLA$
 </div>
 
   <h1> TEEN-x(XVIII+) <h1>
-      <img src=“https://i.imgur.com/Ywx5uCu.jpg” alt=“nature” width=“400” height=“400”>
+      <img src=“” alt=“nature” width=“400” height=“400”>
 
 <p>About Me</p>
 <p>love?</p>
 <p>@</p>
 <p>$$$</p>
 <!--BHM*LOVE-->
+<img src="https://i.imgur.com/ky63GGX.jpeg" alt="i love love">
 <h1>I LOVE LOVE</h1>
 <!--link to first article-->
 
       <h1>$$$$</h1>
       <ul>
         <li>tshirt</li>
+        <!--img src="https://i.imgur.com/1JVmXyT.png" alt="tshirt"-->
         <li>sweater</li>
+        <!--img src="https://i.imgur.com/1JVmXyT.png" alt="sweater"-->
         <li>robe</li>
+        <!--img src="https://i.imgur.com/1JVmXyT.png" alt="robe"-->
         <li>mug</li>
+        <!--img src="https://i.imgur.com/1JVmXyT.png" alt="mug"-->
         <li>hat</li>
+        <!--img src="https://i.imgur.com/1JVmXyT.png" alt="hat"-->
         <li>Gold Chain</li>
+        <!--img src="https://i.imgur.com/1JVmXyT.png" alt="Gold"-->
         <li>Calander</li>
+        <!--img src="https://i.imgur.com/1JVmXyT.png" alt="Calander"-->
         <li>Book</li>
+        <!--img src="https://i.imgur.com/1JVmXyT.png" alt="Book"-->
 
       </ul>
       <p>Donate Btc!</p>
       <p>17g4Muck7xboYHV3VN4RkjeGPfxDyryvpo</p>
 
+<!--images we gonna use on the site-->
+<img src="https://i.imgur.com/Oyee0J1.png" alt="application">
+<img src="https://i.imgur.com/q0ye5sC.png" alt="ad">
+<img src="https://i.imgur.com/1JVmXyT.png" alt="la">
+<img src="https://i.imgur.com/1JVmXyT.png" alt="roses">
 
       <h1>”The Articles”</h1>
       <h2>What does it mean to be a BlaccMan in love?</h2>
@@ -257,6 +271,8 @@ When you randomly bring things up that are otherwise minimal. It shows alot abou
       </p>
       <h1>Upcoming Project(S)</h1>
       <!--poster img for next film goes here-->
+      <img src="https://i.imgur.com/ky63GGX.jpeg" alt="poster">
+
       <h2>Like to reach us?</h2>
       <ol>
       <li>IG</li>
