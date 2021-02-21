@@ -13,7 +13,7 @@ ATLA$
 </div>
 
   <h1> TEEN-x(XVIII+) <h1>
-      <img src=“” alt=“nature” width=“400” height=“400”>
+      <img src=“https://i.imgur.com/Qk2FMUn.jpg” alt=“nature”>
 
 <p>About Me</p>
 <p>love?</p>
@@ -51,7 +51,7 @@ ATLA$
 <img src="https://i.imgur.com/Oyee0J1.png" alt="application">
 <img src="https://i.imgur.com/q0ye5sC.png" alt="ad">
 <img src="https://i.imgur.com/1JVmXyT.png" alt="la">
-<img src="https://i.imgur.com/1JVmXyT.png" alt="roses">
+<img src="https://i.imgur.com/Ywx5uCu.jpg" alt="roses">
 
       <h1>”The Articles”</h1>
       <h2>What does it mean to be a BlaccMan in love?</h2>
@@ -271,7 +271,7 @@ When you randomly bring things up that are otherwise minimal. It shows alot abou
       </p>
       <h1>Upcoming Project(S)</h1>
       <!--poster img for next film goes here-->
-      <img src="https://i.imgur.com/ky63GGX.jpeg" alt="poster">
+      <img src="https://i.imgur.com/6KQL4Ht.png" alt="poster">
 
       <h2>Like to reach us?</h2>
       <ol>
