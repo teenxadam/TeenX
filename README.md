@@ -1,6 +1,6 @@
 # TeenX
 
-ATLA$
+<!--ATLA$-->
 
 <!DOCTYPE html>
 <html>
