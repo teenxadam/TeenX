@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <title>KO$MO</title>
-<link rel=“stylesheet” type=“text/css” href=“../css/Babylon.css”>
+<link rel=“stylesheet” type=“text/css” href=“/css/Babylon.css”>
 <body>
 
 <div class=“header”>
