@@ -29,7 +29,8 @@
       <h1>$$$$</h1>
       <ul>
         <li>tshirt</li>
-        <!--img src="https://i.imgur.com/1JVmXyT.png" alt="tshirt"-->
+        <blockquote class="imgur-embed-pub" lang="en" data-id="a/zxF0zp6"  ><a href="//imgur.com/a/zxF0zp6">Say cheese </a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+        <!-- alt="tshirt"-->
         <li>sweater</li>
         <!--img src="https://i.imgur.com/1JVmXyT.png" alt="sweater"-->
         <li>robe</li>
