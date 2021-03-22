@@ -50,6 +50,8 @@
       <p>17g4Muck7xboYHV3VN4RkjeGPfxDyryvpo</p>
 
 <!--images we gonna use on the site-->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/zHp9PLC"  ><a href="//imgur.com/a/zHp9PLC">Bread Machine</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <img src="https://i.imgur.com/Oyee0J1.png" alt="application">
 <img src="https://i.imgur.com/q0ye5sC.png" alt="ad">
 <img src="https://i.imgur.com/1JVmXyT.png" alt="la">
