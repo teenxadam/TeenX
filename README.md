@@ -25,6 +25,7 @@
 <img src="https://i.imgur.com/ky63GGX.jpeg" alt="i love love">
 <h1>I LOVE LOVE</h1>
 <!--link to first article-->
+<A HREF = "http://www.google.com/">This months teen-X</A>
 
       <h1>$$$$</h1>
       <ul>
